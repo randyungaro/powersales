@@ -1,0 +1,23 @@
+daily_sales_project/
+├── manage.py
+├── daily_sales/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+│   ├── asgi.py
+├── sales/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations/
+│   ├── models.py
+│   ├── tests.py
+│   ├── views.py
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── sales/daily_sales.html
+│   ├── static/
+│   │   ├── css/
+│   │   │   ├── styles.css
+├── requirements.txt
