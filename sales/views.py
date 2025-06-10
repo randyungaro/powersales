@@ -8,8 +8,8 @@ def daily_sales(request):
         # Connect to Firebird database
         con = fdb.connect(
             dsn=str(settings.BASE_DIR / 'database/POWERFO.GDB'),
-            user='SYSDBA',
-            password='masterkey',
+            user='<user>',   # Set your user id Firebird database
+            password='<password>',  # set your password Firebird database
             charset='UTF8'
         )
         cursor = con.cursor()
