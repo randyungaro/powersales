@@ -1,3 +1,5 @@
+![15e95a45-2b4e-4d00-8ef1-55cf5fbcee3e](https://github.com/user-attachments/assets/61da58a4-2df0-4b7f-a1bd-5bb89bd2725c)
+
 
 # Django Daily Sales App Interfaced To Power Pro
 
